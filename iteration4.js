@@ -7,8 +7,8 @@
 // console.log(avengers)
 // //  esta ok
 
-// let avengers = ["HULK", "SPIDERMAN", "BLACK PANTHER"]
-// [0],[1],[2]
+let avengers = ["HULK", "SPIDERMAN", "BLACK PANTHER"]
+console.log(avengers.length)
 
 // let rickAndMortyCharacters = ["Rick", "Beth", "Jerry"]
 // rickAndMortyCharacters.push("Morty","Summer")
