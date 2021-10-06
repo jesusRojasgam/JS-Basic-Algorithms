@@ -8,30 +8,30 @@ let number3 = 2;
 // }
 
 if (number2/number1) {
-  console.log(number2);
+  console.log();
 }
 
 if (number1 !== number2) {
-  console.log(number1);
+  console.log();
 }
 
 if (number3 != number1) {
-  console.log(number3);
+  console.log();
 }
 
-if (number3*5) {
-  console.log(number3);
+if ((number3*5) == number1)  {
+  console.log();
 }
 
-if (number3 * 5) {
-    console.log(number3);
-  if (number1 * 2);{
-    console.log(number1);
+if ((number3 * 5) == number1){
+    console.log();
+  if ((number1 * 2) == number2);{
+    console.log();
   }
 }
 
-if (number2 / 2) {
-    console.log(number2);
-    if (number1 / 5)
-  console.log(number1);
+if ((number2 / 2) == number1){
+    console.log();
+    if ((number1 / 5) == number3)
+  console.log();
 }
